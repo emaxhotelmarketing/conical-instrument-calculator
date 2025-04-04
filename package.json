@@ -1,0 +1,22 @@
+{
+  "name": "conical-instrument-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.158.0",
+    "@react-three/fiber": "^8.13.4",
+    "@react-three/drei": "^9.56.7",
+    "chart.js": "^4.4.1"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0",
+    "@vitejs/plugin-react": "^4.0.3"
+  }
+}
