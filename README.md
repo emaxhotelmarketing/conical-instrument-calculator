@@ -1,3 +1,3 @@
 # Conical Wind Instrument Calculator
 
-This is a web-based calculator for designing and visualizing conical wind instruments. Built with React, Three.js, and Chart.js.
+Design and visualize tone hole placement on conical wind instruments. Built with React, Chart.js, and Three.js.
